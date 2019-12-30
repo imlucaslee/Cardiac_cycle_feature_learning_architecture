@@ -10,5 +10,6 @@ Thanks to Z Han, Sun D, T. A. Davis, Y. Rubner, and M. A. Ruzon for their public
 
 References:
 Sun, D.; Roth, S. & Black, M. J. "Secrets of Optical Flow Estimation and Their Principles" IEEE Int. Conf. on Comp. Vision & Pattern Recognition, 2010
+
 Sun, D.; Roth, S. & Black, M. J. "A Quantitative Analysis of Current Practices in Optical Flow Estimation and The Principles Behind Them" Technical Report Brown"CS"10"03,
 2010
